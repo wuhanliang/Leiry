@@ -1,0 +1,13 @@
+{
+  "name": "taylor/leiry",
+  "description": "\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010\u0010",
+  "type": "library",
+  "license": "MIT",
+  "authors": [{
+    "name": "taylor",
+    "email": "whl1185@163.com"
+  }],
+  "require": {
+
+  }
+}
